@@ -1,0 +1,2 @@
+# canvasImageColorData
+Created with CodeSandbox
